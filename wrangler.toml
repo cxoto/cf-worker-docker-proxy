@@ -1,4 +1,4 @@
 name = "docker-proxy"
 type = "javascript"
-
+compatibility_date = "2025-01-21"
 main = "worker.js" 

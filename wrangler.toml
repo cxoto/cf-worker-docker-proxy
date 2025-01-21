@@ -1,0 +1,4 @@
+name = "docker-proxy"
+type = "javascript"
+
+main = "worker.js" 

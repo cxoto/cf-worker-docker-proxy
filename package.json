@@ -1,0 +1,15 @@
+{
+    "name": "docker-proxy",
+    "version": "1.0.0",
+    "description": "A worker-based proxy for Docker registry routing and customization.",
+    "main": "_worker.js",
+    "scripts": {
+      "start": "node _worker.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
